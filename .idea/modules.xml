@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/set.iml" filepath="$PROJECT_DIR$/set.iml" />
       <module fileurl="file://$PROJECT_DIR$/setExercise/setExercise.iml" filepath="$PROJECT_DIR$/setExercise/setExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/setExercise-final/setExercise-final.iml" filepath="$PROJECT_DIR$/setExercise-final/setExercise-final.iml" />
       <module fileurl="file://$PROJECT_DIR$/set_01/set_01.iml" filepath="$PROJECT_DIR$/set_01/set_01.iml" />
     </modules>
   </component>
